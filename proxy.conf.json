@@ -1,0 +1,7 @@
+{
+    "*": {
+    "target": "https://visibilitytech.cl",
+    "secure": false,
+    "changeOrigin": true
+    }
+}
